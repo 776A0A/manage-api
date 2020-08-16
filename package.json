@@ -1,0 +1,23 @@
+{
+  "name": "manage-api",
+  "version": "1.0.0",
+  "description": "A tool for manage your API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/776A0A/manage-api.git"
+  },
+  "keywords": [
+    "api",
+    "map"
+  ],
+  "author": "darenome",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/776A0A/manage-api/issues"
+  },
+  "homepage": "https://github.com/776A0A/manage-api#readme"
+}
